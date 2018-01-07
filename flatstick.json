@@ -1,11 +1,6 @@
 {
 	"putters": [
 		{
-			"specs": {
-				"grip": "none"
-			}
-		},
-		{
 			"model": "Test 1",
 			"description": "Some kind of putter",
 			"@brand": "Callaway",
