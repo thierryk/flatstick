@@ -1,24 +1,24 @@
 {
-	"putters": [
-		{
-			"image": "",
-			"model": "",
+  "putters": [
+    {
+      "image": "",
+      "model": "",
       "description": "",
       "@brand": "",
-			"@type": "",
-      "price: "",
+      "@type": "",
+      "price": "",
       "specs": [
         {
           "loft": "",
           "lie": "",
           "lengths": "",
           "neck": "",
-          "offset: "",
+          "offset": "",
           "toe-flow": "",
           "head-weight": "",
           "grip": ""
         }
       ]
-		}
-	]
+    }
+  ]
 }
