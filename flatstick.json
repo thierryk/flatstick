@@ -1,24 +1,23 @@
 {
-  "putters": [
-    {
-      "image": "",
-      "model": "White Hot Pro 2.0 #9",
-      "description": "Prove yourself on the green while using a White Hot Pro 2.0 #9 Putter. Designed to meet the performance demands of the world’s most serious golfers, this mid mallet putter features a re-engineered White Hot face insert designed to improve sound, feel and performance. Toe weight placement combines with a half shaft offset and long slant hosel to maximize feel, alignment and accuracy with the Odyssey® White Hot Pro 2.0 #9 Putter.",
-      "@brand": "Odyssey",
-      "@type": "Mallet",
-      "price": "99.99",
-      "specs": [
-        {
-          "loft": "3°",
-          "lie": "70°",
-          "lengths": "33&quot;, 34&quot;, 35&quot;",
-          "neck": "",
-          "offset": "Half Shaft",
-          "toe-flow": "",
-          "head-weight": "343g",
-          "grip": ""
-        }
-      ]
-    }
-  ]
+	"putters": [
+		{
+			"model": "White Hot Pro 2.0 #9",
+			"description": "Prove yourself on the green while using a White Hot Pro 2.0 #9 Putter. Designed to meet the performance demands of the world’s most serious golfers, this mid mallet putter features a re-engineered White Hot face insert designed to improve sound, feel and performance. Toe weight placement combines with a half shaft offset and long slant hosel to maximize feel, alignment and accuracy with the Odyssey® White Hot Pro 2.0 #9 Putter.",
+			"@brand": "Odyssey",
+			"@type": "Mallet",
+			"price": "99.99",
+			"specs": [
+				{
+					"loft": "3°",
+					"lie": "70°",
+					"lengths": "33&quot;, 34&quot;, 35&quot;",
+					"neck": "",
+					"offset": "Half Shaft",
+					"toe-flow": "",
+					"head-weight": "343g",
+					"grip": ""
+				}
+			]
+		}
+	]
 }
