@@ -4,7 +4,7 @@
 			"model": "Test 1",
 			"description": "Some kind of putter",
 			"@brand": "Callaway",
-			"@type": "Blade",
+			"tags": "Blade",
 			"price": "A lot",
 			"specs": {
 				"loft": "12",
@@ -20,7 +20,7 @@
 			"model": "White Hot Pro 2.0 #9",
 			"description": "Prove yourself on the green while using a White Hot Pro 2.0 #9 Putter. Designed to meet the performance demands of the world’s most serious golfers, this mid mallet putter features a re-engineered White Hot face insert designed to improve sound, feel and performance. Toe weight placement combines with a half shaft offset and long slant hosel to maximize feel, alignment and accuracy with the Odyssey® White Hot Pro 2.0 #9 Putter.",
 			"@brand": "Odyssey",
-			"@type": "Mallet",
+			"tags": "Mallet",
 			"price": "100",
 			"specs": [
 				{
